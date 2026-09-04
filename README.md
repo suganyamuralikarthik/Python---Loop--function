@@ -157,9 +157,9 @@ def calculate_bmi(weight, height):
 
 ```text
 Enter the weight in kg: 71
-Enter the height in metre: 1.64
+Enter the height in metre: 1.65
 
-Your BMI is: 26.39797858417502
+Your BMI is: 26.07897153351699
 ```
 
 ---
